@@ -1,0 +1,3 @@
+# 🕉️
+
+This Repo consists of scripts which are now and then useful to me, hence created by me. I might have used AI in help of creation of these, but I must have proper understanding of the script while its creation, what id does, how it does, the code understanding and everything. It's kind of a way to create a repo where I can keep my scripts which something I created for a particular purpose, but instead of throwing them just because that next time also I can create the same using AI, I am keeping them to reduce the time to get same thing done next time.
