@@ -1,0 +1,3 @@
+# Git ignore to ignore the frameworks used to run scripts language wise
+
+python/.venv/
